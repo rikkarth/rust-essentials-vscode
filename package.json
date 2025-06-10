@@ -1,0 +1,17 @@
+{
+  "name": "rust-essentials",
+  "displayName": "Rust Essentials",
+  "description": "Rust essential extensions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "rust-lang.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "fill-labs.dependi"
+  ]
+}
