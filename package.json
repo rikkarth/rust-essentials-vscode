@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/rikkarth/rust-essentials-vscode.git"
   },
+  "license": "MIT",
   "extensionPack": [
     "rust-lang.rust-analyzer",
     "tamasfe.even-better-toml",
