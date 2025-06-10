@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust Logo" width="120" style="filter: invert(1);"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust Logo" width="120"/>
 </p>
 <h1 align="center">Rust Essentials</h1>
 <p align="center">
