@@ -9,6 +9,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "publisher": "streambitdev",
   "icon": "assets/rust-icon.png",
   "repository": {
     "type": "git",
