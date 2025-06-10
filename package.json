@@ -1,24 +1,32 @@
 {
-  "name": "rust-essentials",
-  "displayName": "Rust Essentials",
-  "description": "Rust essential extensions.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.100.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "publisher": "streambitdev",
-  "icon": "assets/rust-icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rikkarth/rust-essentials-vscode.git"
-  },
-  "license": "MIT",
-  "extensionPack": [
-    "rust-lang.rust-analyzer",
-    "tamasfe.even-better-toml",
-    "fill-labs.dependi"
-  ]
+    "name": "rust-essentials",
+    "displayName": "Rust Essentials",
+    "description": "Rust essential extensions.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.100.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "rust",
+        "rustlang",
+        "development",
+        "lsp",
+        "toml",
+        "extension-pack"
+    ],
+    "publisher": "streambitdev",
+    "icon": "assets/rust-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rikkarth/rust-essentials-vscode.git"
+    },
+    "license": "MIT",
+    "extensionPack": [
+        "rust-lang.rust-analyzer",
+        "tamasfe.even-better-toml",
+        "fill-labs.dependi"
+    ]
 }
